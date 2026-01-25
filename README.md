@@ -2,6 +2,10 @@
 
 ![Demo Preview](demo_preview.png)
 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-ffd21e)](https://huggingface.co/spaces/majwolweg/Immich-blur-detector/)
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-3913/)
+[![EdgeTPU](https://img.shields.io/badge/Coral-EdgeTPU-green)](https://www.coral.ai/)
+
 So this is a little project I tried to make to automatically tag blurry or bad quality photos in my Immich server. It uses a Google Coral EdgeTPU because I wanted it to be fast and run locally.
 
 **STATUS: ABANDONED / HALTED**  
