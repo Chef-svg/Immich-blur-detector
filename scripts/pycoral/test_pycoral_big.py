@@ -7,7 +7,7 @@ from pycoral.adapters import common
 from pycoral.adapters import classify
 
 MODEL_PATH = "quality_model_large_edgetpu_edgetpu.tflite"
-TEST_IMAGE_DIR = "prepared/data_formatted_native_320/val"
+TEST_IMAGE_DIR = "prepared/data_formatted_native_384/val"
 INPUT_SIZE = 384
 
 
