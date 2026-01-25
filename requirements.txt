@@ -1,0 +1,20 @@
+--extra-index-url https://google-coral.github.io/py-repo/
+pycoral~=2.0
+maskpass
+numpy<2
+pandas
+openpyxl
+tqdm
+scikit-learn
+albumentations
+tensorflow-cpu
+keras
+tensorflow-directml-plugin
+matplotlib
+tensorflow-model-optimization
+tflite-runtime
+scipy
+pillow
+requests
+tqdm
+python-dotenv
